@@ -1,0 +1,23 @@
+commit aab790b6c402e985ee200ed062d504cef59999fe (HEAD -> master, origin/master)
+Merge: efbe21a cfed1be
+Author: netse-ai <tear728@gmail.com>
+Date:   Mon Feb 15 12:47:50 2021 -0800
+
+    Merge branch 'master' of https://github.com/netse-ai/Lab-4
+
+commit efbe21a32f570aae73265e4f28f6291ffadc51d1
+Author: netse-ai <tear728@gmail.com>
+Date:   Mon Feb 15 12:47:37 2021 -0800
+
+    changes to readme
+
+commit cfed1beb7891cee5549e46d49e184c413ff5f70b
+Author: Ben Kupernik <benkupernik@Gmail.com>
+Date:   Mon Feb 15 12:56:54 2021 -0700
+
+    Ben Kupernik changes
+
+commit 27b7fe7f76eab594792b020dddc870903dbb843d
+Merge: e5d2607 d081168
+Author: netse-ai <tear728@gmail.com>
+Date:   Mon Feb 15 11:15:39 2021 -0800
